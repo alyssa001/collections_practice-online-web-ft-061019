@@ -34,5 +34,6 @@ def find_a(array)
     if x.start_with?("a")
       x << new_arr
     end 
+  end 
   return new_arr
 end 
